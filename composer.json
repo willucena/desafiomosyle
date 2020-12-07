@@ -1,0 +1,16 @@
+{
+    "name": "php/mosyle",
+    "description": "Desafio de criar uma API com PHP sem Framework",
+    "authors": [
+        {
+            "name": "Wilson Lucena",
+            "email": "wilsonllucena@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "MOSYLE\\":"vendor/MOSYLE",
+            "Api\\": "Api/"
+        }
+    }
+}

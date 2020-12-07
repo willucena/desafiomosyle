@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/MOSYLE/Entity" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/MOSYLE/Init" />
+      <path value="$PROJECT_DIR$/vendor/MOSYLE/DI" />
+      <path value="$PROJECT_DIR$/vendor/MOSYLE/Controller" />
+      <path value="$PROJECT_DIR$/vendor/MOSYLE/Repository" />
+      <path value="$PROJECT_DIR$/vendor/MOSYLE/Model" />
+    </include_path>
+  </component>
+</project>
